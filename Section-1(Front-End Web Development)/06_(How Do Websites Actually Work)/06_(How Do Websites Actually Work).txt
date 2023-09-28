@@ -1,0 +1,22 @@
+06_(How Do Websites Actually Work)                                                                                                    #15.08.2023(Tuesday)
+==================================                                                                                                    #28.09.2023(Thursday)
+08:22 Mins
+
+-- Internet connected with Computers
+-- HTML,CSS,JS
+-- HTML website of content(Bricks)
+-- CSS of the websites(Color)
+-- JS has the logic of the webpage
+-- JS has functionalities
+-- It allows website to do things
+-- A browser is a piece of software
+-- A browser gives of functionalities
+-- Chrome has developer tools.
+-- By Inspect you can change the HTML element.
+-- If you reload it is restored
+-- Loco version
+-- www.techcrunch.com
+-- Google in 1998
+
+==============
+              #Completed
