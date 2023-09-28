@@ -1,0 +1,28 @@
+09_(How to Get Help When You're Stuck)                                                                                                 #15.08.2023(Tuesday)
+======================================                                                                                                 #28.09.2023(Thursday)
+06:39 Mins
+----------
+
+Angela Yu
+=========
+-- Struggling is Good.
+-- Framework
+-- What is the Expectations Vs What is the reality
+-- Error Message
+-- stackoverflow.com ( To help you out from the Webpage )
+-- Check the code
+-- Copy and paste sections
+-- Head SAection Q & A
+
+-- Ask in the Q & A --
+
+-- 1.What did you expect?
+-- 2.What actually happened
+-- 3.Screenshot of You ( Windows + Shift + S )
+-- 4.Getting stuck is the part of learning the Journey.
+
+==============
+              #Completed
+
+
+
