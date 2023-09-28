@@ -1,0 +1,24 @@
+05_(How does the Internet actually work)                                                                                              #15.08.2023(Tuesday)
+========================================                                                                                              #28.09.2023(Thursday)
+05:27 Mins
+----------
+
+The Internet
+============
+
+-- It is a long piece of wire connects to each other computer. Open 24/7 . Servers
+-- A web server is a giant library.
+-- www.google.com(My browser sends the message to ISP(Internest Service Provider)
+-- Every computer has unique IP address
+
+-- Google Server
+-- NSLOOk.Up
+-- Internet is a bunch of sea wires
+-- Under Sea Cables
+-- Submarinecables
+-- Cross Section
+-- Speed of Light
+
+  https://www.submarinecablemap.com/
+==============
+              #Completed
