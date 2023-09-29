@@ -1,0 +1,30 @@
+11_Introduction to HTML                                                                                                               #13.12.2022(Tuesday)
+=======================                                                                                                               #29.09.2023(Friday)
+04:16 Min
+=========
+
+-- Chrome
+-- Files HTML,CSS,JavaScript
+-- HTML file is imporatnt
+-- It defines the content and structure of a webpage
+-- HTML :- Hypertext Markup Language
+-- These texts are link together
+-- Tim Berners'Lee
+-- We can't create a file only using HTML
+-- It displays the content
+-- Hypertext or Hyperlinks
+-- How an HTML works
+-- Sir Tim Berner's lee website
+-- Another HTML file
+-- How hyper text works
+-- What is Markup Language
+-- Qutation Parts
+-- Bold 
+-- By adding new parents lines
+-- HTML tags
+-- Very few HTML tags
+-- Headings from 1 to 6
+
+==============
+              #Completed
+
